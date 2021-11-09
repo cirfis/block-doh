@@ -1,0 +1,16 @@
+10.0.0.1 dns.google
+10.0.0.1 cloudflare-dns.com
+10.0.0.1 dns9.quad9.net
+10.0.0.1 dns10.quad9.net
+10.0.0.1 doh.cleanbrowsing.org
+10.0.0.1 dns.dnsoverhttps.net
+10.0.0.1 doh.crypto.sx
+10.0.0.1 doh.powerdns.org
+10.0.0.1 doh-jp.blahdns.com
+10.0.0.1 dns.dns-over-https.com
+10.0.0.1 doh.securedns.eu
+10.0.0.1 dns.rubyfish.cn
+10.0.0.1 doh.dnswarden.com
+10.0.0.1 doh.captnemo.in
+10.0.0.1 doh.tiar.app
+10.0.0.1 mozilla.cloudflare-dns.com
